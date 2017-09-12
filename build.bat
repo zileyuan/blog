@@ -1,1 +1,1 @@
-pugo build -theme="source/theme/pure"
+pugo build

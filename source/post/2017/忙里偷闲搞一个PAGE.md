@@ -7,7 +7,7 @@ update_date = "2017-09-10 12:04:51"
 author = ""
 thumb = ""
 draft = false
-tags = ["tag"]
+tags = ["page"]
 ```
 
 Page搭建了很长时间了，一直没有构件内容，先简单来一个。
